@@ -1,0 +1,82 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bair Island",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elementum dui sit amet lacus mattis aliquam in at mi. Nunc molestie blandit venenatis. Nulla metus elit, mattis ac viverra ut, luctus in enim. Maecenas tincidunt sem augue, vitae vulputate nisi mattis ac. Duis eleifend, metus ut semper hendrerit, neque mi rhoncus neque, a mollis lorem ante nec purus. Sed porttitor molestie odio vel mollis. Curabitur a posuere augue, at rutrum magna. Nullam a diam elit."
+      },
+      "geometry": {
+        "coordinates": [-122.232192, 37.498060],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bel Marin Keys",
+        "description": "In the winter of 2017, Save The Bay began farming operations at a three-acre nursery site at the Bel Marin Keys Wetland Restoration Project. Save The Bay is partnering with the California Coastal Conservancy and Plant Minded Landscapes at the Hamilton Nursery facility to scale up our plant propagation operations and grow plants over the next two years for approximately 40 acres of seasonal wetlands. PlantMinded Landscapes is working with us to develop a small-scale farming operation to supply plants for the Bel Marin Keys project. This type of plant propagation work is the first of its kind for Save The Bay and lessons learned while executing this project will apply to similar large scale projects throughout San Francisco Bay."
+      },
+      "geometry": {
+        "coordinates": [-122.5264748, 38.0807844],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eden Landing Ecological Reserve",
+        "description": "We partner with the East Bay Regional Park District (EBRPD) to restore habitat along the Martin Luther King (MLK), Jr. Shoreline. If you have walked along the Shoreline at Damon Marsh Slough, East Creek Slough, or Garretson Point you will see some of the great work that Save The Bay staff and volunteers have accomplished in collaboration with the EBRPD and other partners such as BART and the Piedmont/Orinda Garden Clubs. This shoreline is important for its accessibility to East Bay communities and schools. For almost 20 years, we have brought local schools and public volunteers out to restore native habitat by removing non-native plants and planting local, native species such as gumplant, Western goldenrod, marsh baccharis, and other plants important for wildlife. The MLK, Jr. Shoreline provides access for many of our East Bay student education programs.  One of our native plant nursery facilities is also located along the MLK, Jr. Shoreline at Garretson Point and helps supply the plants needed for our restoration sites."
+      },
+      "geometry": {
+        "coordinates": [-122.122566, 37.621943],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Martin Luther King Jr. Regional Shoreline",
+        "description": "We partner with the East Bay Regional Park District (EBRPD) to restore habitat along the Martin Luther King (MLK), Jr. Shoreline. If you have walked along the Shoreline at Damon Marsh Slough, East Creek Slough, or Garretson Point you will see some of the great work that Save The Bay staff and volunteers have accomplished in collaboration with the EBRPD and other partners such as BART and the Piedmont/Orinda Garden Clubs. This shoreline is important for its accessibility to East Bay communities and schools. For almost 20 years, we have brought local schools and public volunteers out to restore native habitat by removing non-native plants and planting local, native species such as gumplant, Western goldenrod, marsh baccharis, and other plants important for wildlife. The MLK, Jr. Shoreline provides access for many of our East Bay student education programs.  One of our native plant nursery facilities is also located along the MLK, Jr. Shoreline at Garretson Point and helps supply the plants needed for our restoration sites."
+      },
+      "geometry": {
+        "coordinates": [-122.211078, 37.750327],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ora Loma Sanitary District",
+        "description": "Save The Bay is proud to be a partner on the Oro Loma Horizontal Levee Project. This unique experimental project is located on the property of the Oro Loma Sanitary District treatment plant, which is jointly owned by the Oro Loma and Castro Valley Sanitary Districts on the Hayward Shoreline. Starting in the fall/winter of 2014, Save The Bay constructed an on-site nursery facility at the wastewater treatment plant to support our work in growing plants for the Oro Loma Horizontal Levee Project. We propagated and installed more than 70,00 plants over a 15-month period on 1.4 acres of a constructed transition zone slope. We also hand spread over 3,000,000 native seeds on the site to compete with weeds and keep them from establishing. The success of these propagation and installation methods was astounding. Our work on this project is seen as a successful model of how to scale up nursery operations for large transition zone projects. We periodically continue to work at this site for minimum ongoing maintenance and to work with project partners on possible future iterations of this work for other projects."
+      },
+      "geometry": {
+        "coordinates": [-122.158648, 37.668739],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Palo Alto Baylands",
+        "description": "Save The Bay has worked at various sites in the Palo Alto Baylands for almost 20 years. We currently work in partnership with the City of Palo Alto and the Palo Alto Baylands at sites along Adobe Creek Trail, Byxbee Park, at the lagoon near the Lucy Evans Nature Center, and in partnership with the Woodside Atherton Garden Club at a site in front of our Palo Alto Nursery Facility. Our work in the Palo Alto Baylands comprises non-native species removal, trash removal, and native plant revegetation and restoration.  Our Palo Alto sites are conveniently located to many of our educational partners in the West and South Bay and is one of the major sites that supports our annual goal of serving 2,000 students each year."
+      },
+      "geometry": {
+        "coordinates": [-122.107039, 37.457886],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ravenswood Salt Ponds",
+        "description": "We are in the initial phase of this project as we are just starting to grow plants for restoration of two large transition zone sites at Ravenswood Pond R4 in partnership with the Don Edwards National Wildlife Refuge (U.S. Fish and Wildlife Service), the California State Coastal Conservancy, and the South Bay Salt Pond Restoration Project. Between these two transition zone sites at Pond R4, we will restore approximately 24.6 acres of transition zone habitat. We are piloting methods to scale our plant propagation and installation practices to accommodate the needs of this large site. This is an easily accessible site to enjoy nature at the edge of the Bay and to volunteer with other community members."
+      },
+      "geometry": {
+        "coordinates": [-122.1746404, 37.4950282],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
