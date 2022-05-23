@@ -27,7 +27,7 @@
     const map = new mapboxgl.Map({
       container: 'map',
       // Replace YOUR_STYLE_URL with your style URL.
-      style: 'mapbox://styles/savesfbay/ckzx9suwh00g215r4r4mweb1c', 
+      style: 'mapbox://styles/savesfbay/cl3hz7kve000f15oxngrokf9l', 
       center: [-122.33877, 37.76192],
       zoom: 9.24
     });
@@ -39,7 +39,7 @@
     map.on('click', (event) => {
       // If the user clicked on one of your markers, get its information.
       const features = map.queryRenderedFeatures(event.point, {
-        layers: ['restoration-sites'] // replace with your layer name
+        layers: ['restoration-sites-2022'] // replace with your layer name
       });
       if (!features.length) {
         return;

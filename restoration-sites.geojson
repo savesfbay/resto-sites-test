@@ -1,0 +1,117 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bair Island",
+        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/bair-island.jpg",
+        "acres": 4.25,
+        "years": 18,
+        "partners": "USFWS",
+        "plants": "60,849",
+        "description": "Part of the Don Edwards National Wildlife Refuge, Bair Island is a 2,600 acre wetland complex consisting of Inner, Middle, and Outer Bair Islands. In the mid-2000s, Save The Bay ran our former Canoes in Sloughs program at Middle Bair Island, allowing volunteers to contribute to restoration efforts in the otherwise inaccessible marshlands. We currently maintain and monitor 4.25 acres of transition-zone habitat at the site."
+      },
+      "geometry": {
+        "coordinates": [-122.232192, 37.498060],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bel Marin Keys",
+        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/bel-marin-keys.jpg",
+        "acres": 44,
+        "years": 5,
+        "partners": "California Coastal Conservancy, Novato Baylands Stewards",
+        "plants": "15,000+",
+        "description": "In the winter of 2017, Save The Bay initiated plans to scale up our native plant propagation operations in order to revegetate 44 acres of seasonal wetlands at the Bel Marin Keys Wetland Restoration Project. Our team experimented with new methods to accomplish the task including growing plants in-ground using farming techniques and building over 80 division beds adjacent to the project site. Using plants grown at the onsite nursery and at the Hamilton Wetlands nursery as well as native seed mixes, we again partnered with the State Coastal Conservancy and Novato Baylands Stewards to outplant the site in Fall 2020 through Spring 2022."
+      },
+      "geometry": {
+        "coordinates": [-122.5264748, 38.0807844],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eden Landing Ecological Reserve",
+        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/eden-landing.jpg",
+        "acres": 6.09,
+        "years": 16,
+        "partners": "California Department of Fish and Wildlife, California State Coastal Conservancy, East Bay Regional Park District",
+        "plants": "162,619",
+        "description": "Save The Bay has worked to restore many sites at the Eden Landing Ecological Reserve (ELER) over the past 16 years. Along with the help of countless volunteers, we have restored over six acres of transition zone habitat in subsites named Eden A-H. We’re initiating work on Eden I, a 1.37 acre parcel, near the entryway this coming year. Plant species outplanted at Eden Landing include those that best represent typical habitat found historically at the Bay margins, resulting in a beautiful mosaic of native rhizomatous grasses interspersed with taller, shrubby species that provide excellent habitat for endangered species and other small mammals and birds. Our work at some ELER subsites is restricted during six months of the year when the federally-threatened Snowy Plover nest on adjacent habitat. Seasonal trail openings and a kayak launch built in 2016 offer the public a glimpse of this work at the ELER."
+      },
+      "geometry": {
+        "coordinates": [-122.122566, 37.621943],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Martin Luther King Jr. Regional Shoreline",
+        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/mlk.jpg",
+        "acres": 3.9,
+        "years": 22,
+        "partners": "East Bay Regional Park District, BART, Piedmont/Orinda Garden Clubs",
+        "plants": "75,009",
+        "description": "For over 20 years, Save The Bay has partnered with the East Bay Regional Park District (EBRPD) on the Martin Luther King, Jr. Shoreline to engage the public, restore habitat, and operate an onsite native plant nursery. The MLK Nursery supports plant propagation for many of our East Bay sites, in addition to providing valuable program opportunities for volunteers who want to work in our nurseries. If you have walked along the Shoreline at Damon Marsh Slough, East Creek Slough, or Garretson Point you will see some of the great work that Save The Bay staff and volunteers have accomplished in collaboration with our partners. This site is accessible to East Bay communities and serves as a location for many of our student education programs. Work along the shoreline includes native plant restoration, invasive species removal, and trash cleanup."
+      },
+      "geometry": {
+        "coordinates": [-122.211078, 37.750327],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ora Loma Sanitary District",
+        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/oro-loma.jpg",
+        "acres": 1.4,
+        "years": 3,
+        "partners": "Oro Loma Sanitary District, Castro Valley Sanitary District, UC Berkeley, San Francisco Estuary Partnership",
+        "plants": "70,000",
+        "description": "In the fall of 2014, Save The Bay joined the team of the Oro Loma Horizontal Levee Demonstration project, an experimental pilot project designed to treat wastewater using natural systems. Within a 15-month timeframe, we built on onsite nursery, propagated native and locally-collected species, and installed more than 70,00 plants on 1.4 acres of the newly constructed ecotone slope. Our success scaling up nursery operations on this project continues to inform our large scale transition zone project planning. We periodically continue to work at this site for minimum ongoing maintenance and to work with project partners on possible future iterations of this work for other projects."
+      },
+      "geometry": {
+        "coordinates": [-122.158648, 37.668739],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Palo Alto Baylands",
+        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/pab.jpg",
+        "acres": 6.52,
+        "years": 21,
+        "partners": "City of Palo Alto, EcoVolunteers",
+        "plants": "158,004",
+        "description": "Save The Bay has maintained a partnership with the City of Palo Alto for over 20 years, restoring sites in the Baylands along Adobe Creek Trail, Byxbee Park, near the Duck Pond, and adjacent to our Baylands Native Plant Nursery in partnership with the Woodside Atherton Garden Club. The nursery, constructed in 2003, comprises a greenhouse, shadehouse, and work and storage spaces used for housing programmatic equipment. In the past six years, we have undertaken facility improvements to insure that we are producing clean, disease-free native plants. Our work at the Palo Alto Baylands sites involves non-native species removal, trash clean-ups, and native plant revegetation and enhancement.  The Palo Alto Baylands serve as a critical hub for our education programs and support our annual goal of serving over 2,000 students each year."
+      },
+      "geometry": {
+        "coordinates": [-122.107039, 37.457886],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ravenswood Salt Ponds",
+        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/ravenswood.jpg",
+        "acres": 25,
+        "years": 14,
+        "partners": "Don Edwards National Wildlife Refuge (USFWS), California State Coastal Conservancy, South Bay Salt Pond Restoration Project, Ducks Unlimited, West Bay Sanitary District",
+        "plants": "67,000",
+        "description": "Save The Bay completed our first year of outplanting along the R4 slope, one of two large transition zone sites at Ravenswood Pond Complex. Along with our previous work on the eastern border of South Bay Salt Pond Restoration Project Pond SF2 within the Ravenswood Pond Complex, we will restore approximately 24.6 acres of transition zone habitat. Save The Bay staff and volunteers built a large division bed nursery on a parcel of West Bay Sanitary District land adjacent to the project site. We are piloting methods to scale our plant propagation and installation practices to accommodate the needs of these high-acreage levee slopes. With recreational trails connecting to Bedwell Bayfront Park, Ravenswood is an easily accessible site to enjoy nature at the edge of the Bay and to volunteer with other community members."
+      },
+      "geometry": {
+        "coordinates": [-122.1746404, 37.4950282],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
