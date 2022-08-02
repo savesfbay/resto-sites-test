@@ -4,7 +4,7 @@
       "type": "Feature",
       "properties": {
         "title": "Bair Island",
-        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/bair-island.jpg",
+        "image": "https://savesfbay.org/wp-content/uploads/2022/08/bair-island.jpg",
         "acres": 4.25,
         "years": 18,
         "partners": "USFWS",
@@ -12,7 +12,7 @@
         "description": "Part of the Don Edwards National Wildlife Refuge, Bair Island is a 2,600 acre wetland complex consisting of Inner, Middle, and Outer Bair Islands. In the mid-2000s, Save The Bay ran our former Canoes in Sloughs program at Middle Bair Island, allowing volunteers to contribute to restoration efforts in the otherwise inaccessible marshlands. We currently maintain and monitor 4.25 acres of transition-zone habitat at the site."
       },
       "geometry": {
-        "coordinates": [-122.232192, 37.498060],
+        "coordinates": [-122.232095, 37.501348],
         "type": "Point"
       }
     },
@@ -20,7 +20,7 @@
       "type": "Feature",
       "properties": {
         "title": "Bel Marin Keys",
-        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/bel-marin-keys.jpg",
+        "image": "https://savesfbay.org/wp-content/uploads/2022/05/bel-marin-keys.jpg",
         "acres": 44,
         "years": 5,
         "partners": "California Coastal Conservancy, Novato Baylands Stewards",
@@ -36,7 +36,7 @@
       "type": "Feature",
       "properties": {
         "title": "Eden Landing Ecological Reserve",
-        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/eden-landing.jpg",
+        "image": "https://savesfbay.org/wp-content/uploads/2022/05/eden-landing.jpg",
         "acres": 6.09,
         "years": 16,
         "partners": "California Department of Fish and Wildlife, California State Coastal Conservancy, East Bay Regional Park District",
@@ -52,7 +52,7 @@
       "type": "Feature",
       "properties": {
         "title": "Martin Luther King Jr. Regional Shoreline",
-        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/mlk.jpg",
+        "image": "https://savesfbay.org/wp-content/uploads/2022/05/mlk.jpg",
         "acres": 3.9,
         "years": 22,
         "partners": "East Bay Regional Park District, BART, Piedmont/Orinda Garden Clubs",
@@ -67,8 +67,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ora Loma Sanitary District",
-        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/oro-loma.jpg",
+        "title": "Oro Loma Sanitary District",
+        "image": "https://savesfbay.org/wp-content/uploads/2022/05/oro-loma.jpg",
         "acres": 1.4,
         "years": 3,
         "partners": "Oro Loma Sanitary District, Castro Valley Sanitary District, UC Berkeley, San Francisco Estuary Partnership",
@@ -84,7 +84,7 @@
       "type": "Feature",
       "properties": {
         "title": "Palo Alto Baylands",
-        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/pab.jpg",
+        "image": "https://savesfbay.org/wp-content/uploads/2022/05/pab.jpg",
         "acres": 6.52,
         "years": 21,
         "partners": "City of Palo Alto, EcoVolunteers",
@@ -100,7 +100,7 @@
       "type": "Feature",
       "properties": {
         "title": "Ravenswood Salt Ponds",
-        "image": "https://savethebaydev.wpengine.com/wp-content/uploads/2022/05/ravenswood.jpg",
+        "image": "https://savesfbay.org/wp-content/uploads/2022/05/ravenswood.jpg",
         "acres": 25,
         "years": 14,
         "partners": "Don Edwards National Wildlife Refuge (USFWS), California State Coastal Conservancy, South Bay Salt Pond Restoration Project, Ducks Unlimited, West Bay Sanitary District",
