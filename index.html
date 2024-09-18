@@ -27,7 +27,7 @@
     const map = new mapboxgl.Map({
       container: 'map',
       // Replace YOUR_STYLE_URL with your style URL.
-      style: 'mapbox://styles/savesfbay/cl3hz7kve000f15oxngrokf9l', 
+      style: 'mapbox://styles/savesfbay/cm18hd3jj01yf01q1f5fe4nrb', 
       center: [-122.179, 37.750],
       zoom: 8.83
     });
@@ -40,7 +40,7 @@
     map.on('click', (event) => {
       // If the user clicked on one of your markers, get its information.
       const features = map.queryRenderedFeatures(event.point, {
-        layers: ['restoration-sites-2022'] // replace with your layer name
+        layers: ['restoration-sites-2024'] // replace with your layer name
       });
       if (!features.length) {
         return;
@@ -54,7 +54,7 @@
       const popup = new mapboxgl.Popup({ offset: [0, -15] })
         .setLngLat(feature.geometry.coordinates)
         .setHTML(
-          `<img src="${feature.properties.image}" width=90% style="display: block; margin-left: auto; margin-right: auto; padding-top:20px;"><h3>${feature.properties.title}</h3><h4>Acres: ${feature.properties.acres}<br>Number of plants: ${feature.properties.plants}<br>Years working onsite: ${feature.properties.years}</h4><p>${feature.properties.description}</p><p><b>Partners:</b> ${feature.properties.partners}<br><br><br><br><br><br><br><br></p>`
+          `<img src="${feature.properties.image}" width=90% style="display: block; margin-left: auto; margin-right: auto; padding-top:20px;"><h3>${feature.properties.title}</h3><h4>Acres: ${feature.properties.acres}<br>Number of plants: ${feature.properties.plants}<br>Years working onsite: ${feature.properties.years}</h4><p>${feature.properties.description}</p><p><b>Partners:</b> ${feature.properties.partners}</p>`
         )
         .addTo(map);
       });
